@@ -16,6 +16,14 @@ body {
   src: url(./assets/fonts/saman.ttf);
 }
 
+ol li {
+  margin-bottom: 10px; 
+}
+
+ul li {
+  margin-bottom: 10px; 
+}
+
 .lato{
   font-family: lato;
 }
